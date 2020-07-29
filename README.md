@@ -5,6 +5,9 @@ gradient-descent in linear regression
 3.https://www.youtube.com/watch?v=jc2IthslyzM
 4.https://jermwatt.github.io/machine_learning_refined/notes/3_First_order_methods/3_6_Descent.html
 
+### weakness of gradient descent.
+5.https://jermwatt.github.io/machine_learning_refined/notes/9_Feature_engineer_select/9_3_Scaling.html
+
 ## feature-scaling
 **1.https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff**
 2.https://medium.com/greyatom/why-how-and-when-to-scale-your-features-4b30ab09db5e
