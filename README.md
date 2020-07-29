@@ -3,6 +3,7 @@ gradient-descent in linear regression
 1.https://www.youtube.com/watch?v=vsWrXfO3wWw&t=998s
 2.https://www.youtube.com/watch?v=sDv4f4s2SB8
 3.https://www.youtube.com/watch?v=jc2IthslyzM
+4.https://jermwatt.github.io/machine_learning_refined/notes/3_First_order_methods/3_6_Descent.html
 
 ## feature-scaling
 **1.https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff**
