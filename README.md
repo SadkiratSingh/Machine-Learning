@@ -18,3 +18,7 @@ gradient-descent in linear regression
 #### a standardised data distribution is not a normal data distribution.See here->
 5.https://stats.stackexchange.com/questions/141600/some-issues-with-standardized-variable-in-a-regression-analysis
 6.https://junkcharts.typepad.com/numbersruleyourworld/2019/11/myth-standardizing-variables-makes-them-normal.html
+
+#### directional derivatives, partial derivatives, gradient, topics related to multivariable fxns. ####
+1.https://tutorial.math.lamar.edu/classes/calciii/directionalderiv.aspx
+2.https://mathinsight.org/directional_derivative_gradient_introduction
